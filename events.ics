@@ -93,4 +93,100 @@ DESCRIPTION:Free public opening\; RSVP https://www.eventbrite.co.uk/e/free-lette
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:republic-before-darfur-2026@london-culture
+DTSTAMP:20261025T201500Z
+DTSTART;TZID=Europe/London:20261027T170000
+DTEND;TZID=Europe/London:20261027T190000
+SUMMARY:Before Darfur - Closing Night & Conversation
+LOCATION:The Common Room\, Republic\, Export Building\, 2 Clove Crescent\, London E14 2BE
+DESCRIPTION:Free public event with artist conversation and participatory session. Sign in at Export Building reception. Source: https://republic.london/black-history-month-2026-republic-london/
+URL:https://republic.london/black-history-month-2026-republic-london/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:under-same-sun-2026@london-culture
+DTSTAMP:20261025T201500Z
+DTSTART;TZID=Europe/London:20261104T180000
+DTEND;TZID=Europe/London:20261104T210000
+SUMMARY:Under the Same Sun - Exhibition Private Viewing
+LOCATION:The Nook\, Brixton House\, 385 Coldharbour Lane\, London SW9 8GL
+DESCRIPTION:Free entry\; RSVP REQUIRED via organiser site. Photography about migration and belonging. Source: https://www.casafestival.org.uk/events/under-the-same-sun-exhibition-private-viewing
+URL:https://www.casafestival.org.uk/events/under-the-same-sun-exhibition-private-viewing
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:now-gerald-moore-2026@london-culture
+DTSTAMP:20261025T201500Z
+DTSTART;TZID=Europe/London:20261106T180000
+DTEND;TZID=Europe/London:20261106T200000
+SUMMARY:NOW 2026 - Emerging Artists Private View
+LOCATION:Gerald Moore Gallery\, Mottingham Lane\, London SE9 4RW
+DESCRIPTION:Public Eventbrite listing\; book before attending. Entry via pedestrian gate on Mottingham Lane. Source: https://www.eventbrite.co.uk/e/now-2026-exhibition-at-the-gerald-moore-gallery-tickets-2002990869610
+URL:https://www.eventbrite.co.uk/e/now-2026-exhibition-at-the-gerald-moore-gallery-tickets-2002990869610
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:highgate-art-fair-2026@london-culture
+DTSTAMP:20261025T201500Z
+DTSTART;TZID=Europe/London:20261106T173000
+DTEND;TZID=Europe/London:20261106T210000
+SUMMARY:Highgate Art Fair - Opening Private View (£20 ticket)
+LOCATION:Highgate Primary School\, Storey Road\, London N6 4ED
+DESCRIPTION:Publicly available private-view tickets £20\; ticket required. Meet artists\; bar available. Source: https://hawk-pike-tpwp.squarespace.com/home
+URL:https://hawk-pike-tpwp.squarespace.com/home
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fulham-library-pv-2026@london-culture
+DTSTAMP:20261025T201500Z
+DTSTART;TZID=Europe/London:20261109T180000
+DTEND;TZID=Europe/London:20261109T200000
+SUMMARY:SOFAP Autumn Exhibition - Private View
+LOCATION:Fulham Library (upstairs)\, 598 Fulham Road\, London
+DESCRIPTION:Free public RSVP listed with availability at time of search. Meet exhibiting artists. Source: https://www.sofap.co.uk/sofap-life/private-views-social-events/
+URL:https://www.sofap.co.uk/sofap-life/private-views-social-events/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:womans-place-crypt-2026@london-culture
+DTSTAMP:20261025T201500Z
+DTSTART;TZID=Europe/London:20261110T180000
+DTEND;TZID=Europe/London:20261110T210000
+SUMMARY:A Woman's Place - Alice Parsloe Private View
+LOCATION:The Crypt Gallery\, St Pancras Parish Church\, Dukes Road\, London NW1 2BA
+DESCRIPTION:Venue advertises private view\; entry and RSVP requirements not specified. Check with venue. Source: https://cryptgallery.org/event/a-womans-place/
+URL:https://cryptgallery.org/event/a-womans-place/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:handmade-chelsea-2026@london-culture
+DTSTAMP:20261025T201500Z
+DTSTART;TZID=Europe/London:20261111T180000
+DTEND;TZID=Europe/London:20261111T203000
+SUMMARY:Handmade Chelsea - Preview Evening
+LOCATION:Chelsea Old Town Hall\, King's Road\, London SW3 5EE
+DESCRIPTION:Public fair with a preview evening\; confirm ticket availability and cost with organiser. Source: https://www.handmadeinbritain.co.uk/event/handmade-chelsea-the-contemporary-craft-and-design-fair/
+URL:https://www.handmadeinbritain.co.uk/event/handmade-chelsea-the-contemporary-craft-and-design-fair/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lara-julian-2026@london-culture
+DTSTAMP:20261025T201500Z
+DTSTART;TZID=Europe/London:20261125T180000
+DTEND;TZID=Europe/London:20261125T210000
+SUMMARY:Lara Julian: The Fourth State - Private View
+LOCATION:Avivson Gallery\, 49 Highgate High Street\, London N6 5JX
+DESCRIPTION:Public Eventbrite private-view listing. Register/check ticket terms before attending. Source: https://www.eventbrite.co.uk/e/private-view-lara-julian-the-fourth-state-tickets-2003090406327
+URL:https://www.eventbrite.co.uk/e/private-view-lara-julian-the-fourth-state-tickets-2003090406327
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
