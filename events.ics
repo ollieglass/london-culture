@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//London Culture//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:London Art Openings
+X-WR-TIMEZONE:Europe/London
+BEGIN:VEVENT
+UID:future-sensorium-2026@london-culture
+DTSTAMP:20261025T200000Z
+DTSTART;TZID=Europe/London:20261027T180000
+DTEND;TZID=Europe/London:20261027T210000
+SUMMARY:How to Be in the Future: A Future Sensorium - Private View
+LOCATION:Chisenhale Studios\, Bow\, London
+DESCRIPTION:Public opening advertised\; free admission. Verify event details before travelling.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:freeform-espacio-2026@london-culture
+DTSTAMP:20261025T200000Z
+DTSTART;TZID=Europe/London:20261029T180000
+DTEND;TZID=Europe/London:20261029T210000
+SUMMARY:FREEFORM - Private View
+LOCATION:Espacio Gallery\, 159 Bethnal Green Road\, London
+DESCRIPTION:Publicly advertised\; RSVP requirements unconfirmed.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:play-joy-2026@london-culture
+DTSTAMP:20261025T200000Z
+DTSTART;TZID=Europe/London:20261029T190000
+DTEND;TZID=Europe/London:20261029T213000
+SUMMARY:PLAY! - JOY! Collective Private View
+LOCATION:JOY! Factory\, Hoxton\, London
+DESCRIPTION:Public Eventbrite listing reported\; verify and book.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:absurdities-crypt-2026@london-culture
+DTSTAMP:20261025T200000Z
+DTSTART;TZID=Europe/London:20261029T170000
+DTEND;TZID=Europe/London:20261029T210000
+SUMMARY:ABSURDITIES - Angus Irvine Private View
+LOCATION:The Crypt Gallery\, St Pancras Parish Church\, Euston Road\, London NW1 2BA
+DESCRIPTION:Free private view advertised\; verify details.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:carpe-diem-studio73-2026@london-culture
+DTSTAMP:20261025T200000Z
+DTSTART;TZID=Europe/London:20261029T180000
+DTEND;TZID=Europe/London:20261029T210000
+SUMMARY:Carpe Diem - Harumi Tanaka Private View
+LOCATION:Studio 73\, Railway Arch 18\, Valentia Place\, London SW9 8PJ
+DESCRIPTION:Public invitation\; RSVP before attending.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:palette-frame-2026@london-culture
+DTSTAMP:20261025T200000Z
+DTSTART;TZID=Europe/London:20261029T180000
+DTEND;TZID=Europe/London:20261029T200000
+SUMMARY:November Private View - Palette and Frame
+LOCATION:Palette and Frame\, 79 Tottenham Lane\, London N8 9BE
+DESCRIPTION:Public invitation\; check booking requirements.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nightclub-end-world-2026@london-culture
+DTSTAMP:20261025T200000Z
+DTSTART;TZID=Europe/London:20261029T180000
+DTEND;TZID=Europe/London:20261029T220000
+SUMMARY:Nightclub at the End of the World - Art Opening
+LOCATION:Jam in a Jar\, 599 Green Lanes\, London N8 0RE
+DESCRIPTION:Public opening listing\; confirm entry.
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:future-footsteps-2026@london-culture
+DTSTAMP:20261025T200000Z
+DTSTART;TZID=Europe/London:20261029T180000
+DTEND;TZID=Europe/London:20261029T210000
+SUMMARY:Future Footsteps - Opening Party
+LOCATION:Tiny Gallery\, 146 Wells Way\, London SE5 7SY
+DESCRIPTION:Free public opening\; RSVP https://www.eventbrite.co.uk/e/free-letterpress-exhibition-tickets-2001247956510
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
